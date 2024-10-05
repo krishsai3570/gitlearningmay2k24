@@ -8,3 +8,7 @@ git init [initailize git]
 
 git status [list untracked files]
 
+git log [check untracked files]
+
+
+
