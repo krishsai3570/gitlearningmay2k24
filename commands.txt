@@ -1,0 +1,5 @@
+git config --global user.name "saikrishna"[ to set user name]
+
+git config --global user.email "krishsai3570@gmail.com[to set user name]
+
+gt config --list[]
